@@ -5,3 +5,6 @@ Machine Learning Project in the first semester of the scholar year 2020-2021 in 
 The exact title of the project is : 
 
           Detection of mask wearing during the Covid health crisis19
+
+
+Source for the data : https://github.com/cabani/MaskedFace-Net 
