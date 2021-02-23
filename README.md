@@ -1,14 +1,14 @@
 # MALIS-Masked_Face_Detection
 
-Machine Learning Project in the first semester of the scholar year 2020-2021 in EURECOM.
+<ins>*Machine Learning Project in the first semester of the scholar year 2020-2021 in EURECOM.*</ins>
 
-The exact title of the project is : 
+*The exact title of the project is* : 
 
           Detection of mask wearing during the Covid health crisis19
 
 Source for the data : https://github.com/cabani/MaskedFace-Net - Images of size 1024x1024
 
-For the rest, I will note MWD for Mask Wear Detection.
+For the rest, I will note **MWD** for **Mask Wear Detection**.
 
 <ins>*Explanation of some notations*</ins>:
 
