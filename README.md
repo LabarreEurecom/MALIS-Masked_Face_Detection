@@ -4,7 +4,7 @@
 
 *The exact title of the project is* : 
 
-          Detection of mask wearing during the Covid health crisis19
+          Detection of mask wearing during the Covid-19 health crisis
 
 Source for the data : https://github.com/cabani/MaskedFace-Net - Images of size 1024x1024
 
